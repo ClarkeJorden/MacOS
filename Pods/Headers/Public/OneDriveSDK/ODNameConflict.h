@@ -1,0 +1,1 @@
+link ../../../OneDriveSDK/OneDriveSDK/OneDriveCoreSDK/Core/Options/ODNameConflict.h

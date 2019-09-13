@@ -1,0 +1,1 @@
+link ../../../ADAL/ADALiOS/ADALiOS/ADAuthenticationResult.h
